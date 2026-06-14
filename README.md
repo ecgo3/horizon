@@ -1,5 +1,4 @@
-# Horizon Schwarzschild Simulation
-
+# Horizon
 `horizon` is a CUDA/OpenGL Schwarzschild black hole simulation and visualization project. It advances exactly 1,000,000 independent timelike particle geodesics on the GPU and renders them through CUDA-OpenGL interop while a fullscreen GLSL pass ray-traces null Schwarzschild geodesics for gravitational lensing, photon-sphere glow, redshift, Doppler boosting, and Shapiro-delay modulation.
 
 ## Physics Model
